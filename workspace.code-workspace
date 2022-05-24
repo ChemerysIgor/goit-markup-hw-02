@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\traing"
+		},
+		{
+			"path": "..\\Марафон\\progect"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "goit-markup-hw-01"
+    }
+}
